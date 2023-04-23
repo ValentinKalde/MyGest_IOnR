@@ -51,7 +51,7 @@ Cet exemple en est un parmi tant d’autres, les possibilités de ce projet sont
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# VOICI LES FONCTIONNALIT que j'ai moi même développé :
+# VOICI LES FONCTIONNALITÉS que j'ai moi même développé :
 
 
 # Pour commencer, en entrant dans myGest_IonR, il est possible d’accéder aux outils réseaux. Ces outils proposent les fonctionnalités suivantes : 
