@@ -46,3 +46,62 @@ Après une heure de travail, on vient vous avertir qu’une machine est déconne
 Si vous aviez cet outil et que vous l’aviez lancé en arrivant au matin, vous auriez détecté la panne en quelques clics, et cela vous aurait laissé le temps de trouver le souci et de le régler, sans ralentir le travail des employés. A vrai dire, ils ne l’auraient même pas remarqué étant donné qu’il aurait été réglé avant même leur arrivée. 
 
 Cet exemple en est un parmi tant d’autres, les possibilités de ce projet sont infinies et les mises à jour continues contenant des nouveaux outils font de lui un excellent support pour le technicien informatique, aussi bien novice que confirmé.  
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# VOICI LES FONCTIONNALIT que j'ai moi même développé :
+
+
+# Pour commencer, en entrant dans myGest_IonR, il est possible d’accéder aux outils réseaux. Ces outils proposent les fonctionnalités suivantes : 
+- Tester une adresse IP
+- Tester un port TCP
+- Consulter les IP actives dans le parc informatique ( préalablement renseigné )
+- Générer un fichier texte a partir de la base de donnée
+
+![image](https://user-images.githubusercontent.com/129487278/233841060-702497b3-1e17-473f-ba94-2ce3712c2454.png)
+
+# Voici un test d’adresse IP. On rentre une adresse, l’outil envoie une requête. Si l’adresse répond au ping, « L’adresse IP répond aux pings » s’affiche. Sinon, « L’adresse IP ne répond pas aux pings » s’affiche.
+
+![image](https://user-images.githubusercontent.com/129487278/233841086-fae6a32d-6915-4a02-96ca-fd335e7e0f36.png)
+
+# Voici un test de port. Ici, on rentre une IP, puis un port TCP. L’outil envoie une requête. 
+Si le port est ouvert sur l’adresse IP renseignée, «Le port TCP est ouvert sur l’adresse IP» s’affiche. Sinon, « Le port TCP est fermé sur l’adresse IP » s’affiche.
+
+![image](https://user-images.githubusercontent.com/129487278/233841103-f549d47f-0666-48f4-9af3-962482d12e98.png)
+
+# Ici, on va afficher les IP actives dans le parc informatique. Pour cela, il faut renseigner les adresses IP du parc informatique dans la base de donnée. Une fois cela fait, il reste à sélectionner l’option 3 des outils réseaux et celui-ci va tester les IP actives.
+Si une adresse est active, elle va s’afficher en vert. Si elle est inactive, elle s’affichera en rouge.
+
+![image](https://user-images.githubusercontent.com/129487278/233841124-f32be8af-a45e-4c6f-b28a-24d064073a8d.png)
+
+# Pour terminer avec les outils réseaux, on peut afficher le contenu de la base de donnée, avec les filtres sélectionnés ( l’ID, le nom ou l’IP par exemple).
+Pour cela, on sélectionne l’option 4 et un tableau de la base de donnée s’affiche.
+
+![image](https://user-images.githubusercontent.com/129487278/233841161-6cbeb951-743a-40ef-9a41-6b32e9c28430.png)
+
+# A part les outils réseau, il est possible d’installer des extensions, des logiciels et des protocoles essentiels à l’administrateur réseau : Parmi eux, on peut citer le FTP, le SSH, Wireshark ou encore Putty.
+
+![image](https://user-images.githubusercontent.com/129487278/233841170-c94125fc-41af-4fc6-8452-0f683112ea46.png)
+
+# Pour toutes ces fonctionnalités, c’est la même démarche : On sélectionne l’outil voulu, et le logiciel se charge d’installer les paquets adéquats :
+
+![image](https://user-images.githubusercontent.com/129487278/233841212-ad46b10e-2bed-4bae-bf81-54fb139fda4f.png)
+
+![image](https://user-images.githubusercontent.com/129487278/233841218-2283249c-65e9-43e3-93cb-405b0e72ed91.png)
+
+![image](https://user-images.githubusercontent.com/129487278/233841222-1b53e5fe-d8ab-4f85-9c61-bfd0301d0654.png)
+
+# Enfin, on peut simplement choisir de quitter l’outil en sélectionnant l’option 0.
+
+![image](https://user-images.githubusercontent.com/129487278/233841232-30b5555f-96e2-4a82-9fd0-48b51985a842.png)
+
+
+
+
+
+
+
+
