@@ -1,4 +1,7 @@
 # MyGest_IOnR
+Voici le lien youtube de la présentation des fonctionnalités de MyGest_Ion'R:
+https://youtu.be/gKtSZQoBfY8
+
 Bonjour et bienvenu dans la présentation de notre projet MyGest_Ion’R.
 Premièrement, nous allons expliquer les grandes lignes du projet, puis nous rentreront plus en détail sur le fonctionnement du groupe et enfin, nous parleront de l’utilité du projet.
 
